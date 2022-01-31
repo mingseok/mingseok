@@ -19,3 +19,6 @@ I wanna be a server developer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingseok&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+    &nbsp; &nbsp; [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr706)](https://solved.ac/alstjr706)
+
+
