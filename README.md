@@ -36,4 +36,5 @@
 - Blog : [기술 블로그](https://mingseok-blog.vercel.app/)
 - resume : [이력서]()
 - portfolio : [포트폴리오]()
+- TIL : [기술 학습 저장소](https://github.com/mingseok/TIL)
 - linkedin : [링크드인](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-74b710305/)
