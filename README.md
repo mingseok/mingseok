@@ -32,9 +32,9 @@
 
 
 ## Contact 
-- Email : alstjr706@naver.com
+- resume : [이력서](https://drive.google.com/file/d/15nFIJojCWY5iUqy6fZJOHDQVR1B3IqJ9/view?usp=sharing)
+- portfolio : [포트폴리오](https://drive.google.com/file/d/1yhh7xs8Fh_m_k5mE-_JAL7-EA4boJ5qA/view?usp=sharing)
 - Blog : [기술 블로그](https://mingseok-blog.vercel.app/)
-- resume : [이력서](https://cdn.rallit.com/attachment/2025-04-15/Lr58DbjY1oowGQcMvdCrg/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf)
-- portfolio : [포트폴리오](https://cdn.rallit.com/attachment/2025-04-15/2BztTFSmkfUnwdyNX2_36/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%86%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8-%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf)
 - TIL : [기술 학습 저장소](https://github.com/mingseok/TIL)
 - linkedin : [링크드인](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-74b710305/)
+- Email : alstjr706@naver.com
