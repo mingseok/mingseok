@@ -19,14 +19,3 @@
 꾸준함이 저를 성장시킨다고 믿기에, 매일 개발 공부를 하고 1일 1커밋을 실천하고 있습니다.
 
 지금 이 순간에도, 더 나은 개발자가 되기 위해 한 걸음씩 나아가고 있습니다.
-
-
-
-
-## Contact 
-- resume : [이력서](https://drive.google.com/file/d/15nFIJojCWY5iUqy6fZJOHDQVR1B3IqJ9/view?usp=sharing)
-- portfolio : [포트폴리오](https://drive.google.com/file/d/1yhh7xs8Fh_m_k5mE-_JAL7-EA4boJ5qA/view?usp=sharing)
-- Blog : [기술 블로그](https://mingseok-blog.vercel.app/)
-- TIL : [기술 학습 저장소](https://github.com/mingseok/TIL)
-- linkedin : [링크드인](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-74b710305/)
-- Email : alstjr706@naver.com
